@@ -1,6 +1,6 @@
 # おるやんけ
 
-![nyancat](data/app_img.jpg)
+![nyancat](data/app_img.png)
 
 
 ## License
